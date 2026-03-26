@@ -460,7 +460,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 46a33683d6e97c54fbcc88f293eccb88, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  jumpForce: 10
+  jumpForce: 12
   gravityModifier: 2
   isOnGround: 1
   gameOver: 0
@@ -850,10 +850,6 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1853141718774036317, guid: d62742432856c3c43bcddcc6875a067d, type: 3}
       propertyPath: m_Name
-      value: Obstacle
-      objectReference: {fileID: 0}
-    - target: {fileID: 1853141718774036317, guid: d62742432856c3c43bcddcc6875a067d, type: 3}
-      propertyPath: m_TagString
       value: Obstacle
       objectReference: {fileID: 0}
     m_RemovedComponents: []
